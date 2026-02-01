@@ -1,0 +1,48 @@
+# Cloned websites - for learning only, do not push
+clones/
+*.html
+*.htm
+
+# Environment and config
+.env
+.env.local
+*.key
+*.pem
+*.cert
+
+# Build artifacts
+*.pyc
+__pycache__/
+*.so
+*.dll
+*.exe
+*.out
+*.test
+*.tmp
+
+# Dependencies
+node_modules/
+vendor/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
