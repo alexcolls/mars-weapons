@@ -20,6 +20,11 @@ __pycache__/
 *.test
 *.tmp
 
+# Go
+bin/
+pkg/
+*.sum.bak
+
 # Dependencies
 node_modules/
 vendor/
